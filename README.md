@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KazAttarwala
 - 👀 I’m interested in financial analysis, blockchain, robotics, and AI
-- 🌱 I’m currently learning about Ethereum smart contracts
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Django/Flask and React.js projects
 - 📫 How to reach me
   - Email: qais.attarwala0@yahoo.com
